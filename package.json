@@ -1,0 +1,25 @@
+{
+  "name": "pet-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ganache": "^6.4.5",
+    "ganache-cli": "^6.12.2",
+    "ganache-core": "^2.13.2",
+    "jquery": "^3.6.0"
+  }
+}
